@@ -1,0 +1,34 @@
+{
+    "name": "Car Jumper",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.4.30",
+        "tag": "v1.4.30",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/03118f45f1c75321e0d383d4079cf1bca1e0bdc0",
+        "target": "1.4.45",
+        "pxt": "6.12.11",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
